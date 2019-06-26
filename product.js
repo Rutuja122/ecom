@@ -12,16 +12,17 @@ var productController=function(req, res){
     {id:5, title:"dress",description:"long kurti",quantity:7500, unitprice:10000},
 	{id:6, title:"bottle",description:"pink",quantity:500, unitprice:200},
   ];
-  res.send(products);
+  /*res.send(products);
     console.log("Invoking  rest api for entity list");
 	var entity=[
-	{cutomer, employee, office manager},
+	cutomer, employee, officemanager
 	];
+	res.send(entity);*/
 
   
 };
 
-// setting router to map requests  with controllers
+
 app.get ('/products',productController);
 var server = app.listen(8086, function () {
   var host = server.address().address
