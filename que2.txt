@@ -1,6 +1,10 @@
 2.Functional requirement
 
   1.we required the database to store the information about the product.
-  2.we required the google cloud UI.
-  3.we required the database to store the feedback of customers.
-  4. 
+  2.create an architecture for information management system.
+  3.create an architecture for online shopping.
+  4.create the format for feedback management and leave managenment   system.
+  5.develop the web UI and crud operation.
+  6.we required the google cloud to sign in.
+  7.we required the database to store the feedback of customers.
+ 
