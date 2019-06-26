@@ -1,0 +1,10 @@
+1.problem defination:
+
+Fabrikam is a multinational company.It has their 24 offices all over world.
+Company wanted to build and host:
+      1.Information Management Solution in web
+      2.Internate public web site (for their potential customers to know about products with online shopping experience).
+      3.Internate for all emploees (to access Feedback Management System and leave Management).
+      4.Amazon Webservices Cloud subcription to use it as Infrastructre as sercvice(I-a-a-s).
+      5.Information System in public cloud Google Colud Platform or AWS.
+

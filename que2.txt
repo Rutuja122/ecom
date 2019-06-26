@@ -1,0 +1,6 @@
+2.Functional requirement
+
+  1.we required the database to store the information about the product.
+  2.we required the google cloud UI.
+  3.we required the database to store the feedback of customers.
+  4. 

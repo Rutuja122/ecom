@@ -1,0 +1,7 @@
+3.Problem statment:
+  1.to craete the the entities.
+  2.to make the relation between the entities.
+  3.make the queries for crud operations.
+  4.make the company own page problems are occured.
+  5.maintain the load on cloud when many request come from client.
+  6.to make changes without any disturbing and any server problem at webservice.
